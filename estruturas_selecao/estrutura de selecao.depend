@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\pczin\desktop\workspace\estrutura de selecao\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1584205420 source:c:\users\pczin\desktop\estruturas_selecao\main.c
+	<stdio.h>
+	<stdlib.h>
+
